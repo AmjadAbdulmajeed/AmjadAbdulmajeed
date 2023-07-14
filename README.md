@@ -6,7 +6,6 @@ Welcome to my GitHub. I am a Salesforce Developer and Administrator, and I hold 
 
 Currently, I am actively searching for potential opportunities, including internships or entry-level positions in Salesforce administration or Salesforce development.
 
-* 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [My Portfolio](https://github.com/AmjadAbdulmajeed/PORTFOLIO-OF-PROJECTS)
 * ✉️  You can contact me at [amjadabdulmajeed8@gmail.com](mailto:amjadabdulmajeed8@gmail.com)
 * 🧠  I'm learning Lightning Web Components (LWC)
