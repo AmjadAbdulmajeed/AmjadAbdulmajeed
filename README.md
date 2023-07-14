@@ -1,4 +1,4 @@
-Hi 👋 My name is Amjad.
+Hi 👋, I am Amjad.
 =======================
 
 About Me
