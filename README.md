@@ -1,8 +1,6 @@
 Hi there 👋, I am Amjad.
 =======================
 
-About Me
---------
 
 Welcome to my GitHub. I am a Salesforce Developer and Administrator, and I hold a Bachelor's degree in Computer Science and Engineering from ULEM University. My computer skills include languages in: Salesforce administration, Apex, Integration, Lightning Flow, HTML, CSS, and basics of JavaScript, which I am consistently expanding and strengthening. 
 
